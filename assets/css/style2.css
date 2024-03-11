@@ -1,0 +1,13 @@
+body {
+    background-color: bisque;
+}
+
+#btnVolver {
+    display: flex;
+    justify-content: left;
+    margin-top: 5px;
+}
+
+#btn-reset-div {
+    margin-bottom: 5px;
+}
